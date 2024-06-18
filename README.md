@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Hi there 👋, I am a senior Front-end / Full Stack web developer.</h1>
+
 <!-- <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1400/1*0hcduJ-1b1OU7gPDb-Uz0A.jpeg" width="400" /> -->
+
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
 <p>As a seasoned Frontend Web Developer with over seven years of hands-on experience, I specialize in crafting intuitive and dynamic user experiences. With a keen eye for design and a commitment to modern, maintainable code, I have a proven track record of bringing complex designs to life with precision and creativity.
 </p>
@@ -29,7 +31,7 @@ Skills: VUE JS / REACT / JavaScript / HTML / CSS/TailWindCSS
     <code><img alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
   </div>
 
-<h2 font-weight="bold">Back End</h2>
+<h2 font-weight="bold">Backend</h2>
 
   <div align="left">
   <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
@@ -41,7 +43,7 @@ Skills: VUE JS / REACT / JavaScript / HTML / CSS/TailWindCSS
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
   </div>
-<h2 font-weight="bold">Front End</h2>
+<h2 font-weight="bold">Frontend</h2>
 <div>
   <div align="left">
   <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
